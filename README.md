@@ -3,8 +3,7 @@
 
 ### Skills: HTML/CSS/JS 
 
-- 🔭 I’m currently neck deep in The Odin Project
-- 🌱 I’m currently rounding out Vanilla JS fundamentals
+- 🌱 I’m currently experimenting with frame works
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [joshuahlacey@gmail.com](mailto:joshuahlacey@gmail.com)
 
