@@ -3,7 +3,7 @@
 
 ### Skills: HTML/CSS/JS 
 
-- 🌱 I’m currently experimenting with frame works
+- 🌱 I’m currently experimenting with frameworks
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [joshuahlacey@gmail.com](mailto:joshuahlacey@gmail.com)
 
